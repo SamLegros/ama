@@ -1,6 +1,4 @@
-# holman/ama
-
-Ask [@SamLegros](https://twitter.com/samlegros) anything.
+# Ask [@SamLegros](https://twitter.com/samlegros) anything!
 
 This is a quick little ask-me-anything type of repository. It is forked from [@holman's feedback repo](https://github.com/holman/ama) and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
