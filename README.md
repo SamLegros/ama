@@ -1,4 +1,6 @@
-# Ask [@SamLegros](https://twitter.com/samlegros) anything!
+# SamLegros/ama
+
+A repository to ask SamLegros anything.
 
 This is a quick little ask-me-anything type of repository. It is forked from [@holman's feedback repo](https://github.com/holman/ama) and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
@@ -23,3 +25,13 @@ Check out the [Closed Issues](https://github.com/SamLegros/ama/issues?q=is%3Aiss
 filter on this repository to browse questions I've answered in the past. I try
 to use this as an email replacement that everyone can see, so feel free to dig
 into some of the older threads.
+
+---
+
+### Forking
+
+If you'd like to create your own AMA repository:
+
+* Click Fork at the top of this page
+* Edit the README (make sure to change the name and links and all that)
+* Enable issues on your repository (they're in your fork's Settings page).
