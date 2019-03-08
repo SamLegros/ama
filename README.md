@@ -6,7 +6,7 @@ This is a quick little ask-me-anything type of repository. It is forked from [@h
 
 ---
 
-## Ask a question
+## Ask A Question
 
 Asking a question is as easy as
 [creating a new issue](https://github.com/samlegros/ama/issues/new) on this
@@ -19,7 +19,7 @@ ask a question on any old issue too, even if you didn't create it.
 
 ---
 
-## Read some questions
+## Read Some Questions
 
 Check out the [Closed Issues](https://github.com/SamLegros/ama/issues?q=is%3Aissue+is%3Aclosed)
 filter on this repository to browse questions I've answered in the past. I try
