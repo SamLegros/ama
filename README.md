@@ -1,6 +1,6 @@
-# SamLegros/ama
+# SamSverko/ama
 
-A repository to ask SamLegros anything.
+A repository to ask SamSverko anything.
 
 This is a quick little ask-me-anything type of repository. It is forked from [@holman's feedback repo](https://github.com/holman/ama) and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
@@ -21,7 +21,7 @@ ask a question on any old issue too, even if you didn't create it.
 
 ## Read Some Questions
 
-Check out the [Closed Issues](https://github.com/SamLegros/ama/issues?q=is%3Aissue+is%3Aclosed)
+Check out the [Closed Issues](https://github.com/SamSverko/ama/issues?q=is%3Aissue+is%3Aclosed)
 filter on this repository to browse questions I've answered in the past. I try
 to use this as an email replacement that everyone can see, so feel free to dig
 into some of the older threads.
